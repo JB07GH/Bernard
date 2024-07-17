@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+.nav {font-size: x-large; 
+}
+.color {
+    background-color: aqua;}
+.container {
+    border: 4px solid lightgray;
+    padding: 24px
+    display: flex
+    justify-content: center
+}
+.row {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+#FES {
+    background-color: blueviolet;
+}
+section {
+    background-color: yellow;
+}
+.title {
+    border: 2px solid rgb(221, 11, 11)
+    width: 100%;
+    height: 24px;
+    margin-bottom: 24px
+    box-sizing: border-box;
+    .box {
+        border: 4px solid lightgray;
+        width: 30%;
+        height: 100px;
+        margin-bottom: 24px;
+    }
+    .Yes {
+        display: flex;
+        justify-content: center;
+        background-color: brown;
+    } 
+    }
+.box-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    }
+   
